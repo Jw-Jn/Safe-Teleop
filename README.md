@@ -1,10 +1,1 @@
-# safe_teleop
-
-Fall CMPT 742 (Visual Computing) Assignment
-
-# Dependencies
-* ROS
-* ncurses
-```
-sudo apt-get install libncurses5 libncurses5-dev
-```
+# safe_teleopFall CMPT 742 (Visual Computing) Assignment## Dependencies* ROS* ncurses```sudo apt-get install libncurses5 libncurses5-dev```## Demodemo on simulator:   ![image](demo.gif)  [whole video](https://drive.google.com/open?id=10fEeyoDbxiydemTwakN40ULhaaR8SXBf)
